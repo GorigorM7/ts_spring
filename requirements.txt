@@ -8,5 +8,5 @@ pmdarima
 isodate
 bokeh
 monthdelta
-tensorflowз
+tensorflow
 keras
